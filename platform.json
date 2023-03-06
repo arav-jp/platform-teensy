@@ -51,8 +51,8 @@
     "framework-arduinoteensy": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.157.0"
+      "owner": "arav-jp",
+      "version": "git@github.com:arav-jp/cores.git"
     },
     "framework-mbed": {
       "type": "framework",
