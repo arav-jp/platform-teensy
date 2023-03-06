@@ -50,7 +50,6 @@
     },
     "framework-arduinoteensy": {
       "type": "framework",
-      "optional": true,
       "owner": "arav-jp",
       "version": "git@github.com:arav-jp/cores.git"
     },
